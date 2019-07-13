@@ -9,3 +9,9 @@ Face Verification based on DeepID and Joint Beyesian
 > 1\) 利用DeepID提取每幅人脸图像的特征，分别得到两幅输入的人脸图像的特征x1和x2.
 
 > 2\) 利用联合贝叶斯来根据特征x1和x2判断是否是否属于同一个人。
+
+        联合贝叶算法：
+            
+          
+
+
