@@ -5,13 +5,13 @@ Face Verification based on DeepID and Joint Beyesian
 这个项目是我研究生课程《机器学习》的大作业。主要是做人脸验证：输入两幅人脸图像，判断是否属于同一个人。
 
 
-## 1、算法：
+## 1、整体流程：
 > 1\) 利用DeepID提取每幅人脸图像的特征，分别得到两幅输入的人脸图像的特征x1和x2.
 
 > 2\) 利用联合贝叶斯来根据特征x1和x2判断是否是否属于同一个人。
 
-        联合贝叶算法：
-            ![](https://github.com/ShirleyGxd/Face-Verification-based-on-DeepID-and-Joint-Beyesian/blob/master/ImagesForReadMeFile/lianhebeiyesi.JPG)
+## 2、联合贝叶斯算法：       
+![image](https://github.com/ShirleyGxd/Face-Verification-based-on-DeepID-and-Joint-Beyesian/ImagesForReadMeFile/lianhebeiyesi.JPG)
           
 
 
