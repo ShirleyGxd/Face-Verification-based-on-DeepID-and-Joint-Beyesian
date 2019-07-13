@@ -11,7 +11,7 @@ Face Verification based on DeepID and Joint Beyesian
 > 2\) 利用联合贝叶斯来根据特征x1和x2判断是否是否属于同一个人。
 
         联合贝叶算法：
-            ![Image text](https://github.com/ShirleyGxd/Face-Verification-based-on-DeepID-and-Joint-Beyesian/tree/master/ImagesForReadMeFile/lianhebeiyesi.JPG)
+            ![](https://github.com/ShirleyGxd/Face-Verification-based-on-DeepID-and-Joint-Beyesian/tree/master/ImagesForReadMeFile/lianhebeiyesi.JPG)
           
 
 
