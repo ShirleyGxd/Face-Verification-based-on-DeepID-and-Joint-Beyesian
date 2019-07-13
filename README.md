@@ -1,4 +1,4 @@
-# Face-Verification-based-on-DeepID-and-Joint-Beyesian-
+# Face-Verification-based-on-DeepID-and-Joint-Beyesian
 Face Verification based on DeepID and Joint Beyesian 
 
 ## 0、背景
